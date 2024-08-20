@@ -32,3 +32,5 @@ barplot(sup2, ylim = c(0,3500),
         main = "Reportes CONAFOR")
 
 
+
+
