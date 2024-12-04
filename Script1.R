@@ -1,4 +1,4 @@
-#Fatima Daniela Arriaga de la Cerda
+Scripts/Script1.R#Fatima Daniela Arriaga de la Cerda
 #2070816
 #20/08/2024
 
